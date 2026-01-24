@@ -38,7 +38,11 @@
 ---
 
 ## 🎬 주요 기능 및 결과물
-수정
+**데모 시나리오1**
+<img width="1212" height="513" alt="디설언 (시나리오1)" src="https://github.com/user-attachments/assets/91f79fbc-f6e9-4303-bd15-9eef76db070f" />
+**데모 시나리오2**
+<img width="1181" height="617" alt="디설언 (시나리오2)" src="https://github.com/user-attachments/assets/3988b088-c384-4d78-a484-d300f4c68610" />
+
 
 <br>
 
